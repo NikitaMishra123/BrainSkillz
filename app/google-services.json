@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "510583306545",
+    "firebase_url": "https://brainskillz-31908.firebaseio.com",
+    "project_id": "brainskillz-31908",
+    "storage_bucket": "brainskillz-31908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510583306545:android:a18ecabea42233b37e9810",
+        "android_client_info": {
+          "package_name": "com.example.brainskillz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510583306545-utucr3mrcsm1940jl8j70a2lldpm7ru0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brainskillz",
+            "certificate_hash": "15306fc50215f64d94afec6c0007dd194a54390c"
+          }
+        },
+        {
+          "client_id": "510583306545-5mjl67bhu72182p6s7ot4l36b51pb14j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBrNERoV1Z_mj5Lo0ShFOTZSSYp0OR8Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510583306545-5mjl67bhu72182p6s7ot4l36b51pb14j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
